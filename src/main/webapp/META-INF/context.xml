@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!--<Resource name="jdbc/qb_database"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxTotal="100"
+              minIdle="10"
+              maxWaitMillis="10000"
+              initialSize="10"-->
+</Context>
